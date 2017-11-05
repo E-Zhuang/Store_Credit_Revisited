@@ -1,0 +1,8 @@
+TERM_PROGRAM=Apple_Terminal
+Account number: Customer name: Initial balance: Debits: Credits: Maximum credit:                 NAME         Zhuang Emily
+      ACCOUNT NUMBER               123ABC
+         NEW BALANCE               250.00
+CREDIT LIMIT EXCEEDED
+
+Do you have another customer to enter data for?
+Enter Y for yes and N for no: 
